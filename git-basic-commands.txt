@@ -1,0 +1,10 @@
+git add <<file name >> <<file name 2>>
+git add <<file name>>
+git clone: .git , add your remote repo as well
+git config –global user.name “”
+git config –global user.email 
+git add .
+git commit –m “java grocery code”
+git remote add origin  https://github.com/devopsdeepdive/backend-demo-repo.git
+git remote –v
+git push origin1 master
