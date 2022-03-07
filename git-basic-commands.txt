@@ -8,3 +8,11 @@ git commit –m “java grocery code”
 git remote add origin  https://github.com/devopsdeepdive/backend-demo-repo.git
 git remote –v
 git push origin1 master
+git branch <<branch name>> : create branch 
+git branch –l :List the branches
+git branch feature
+git checkout <<branch name>>
+git checkout –b <<branch name>>
+git checkout –b release
+git branch –m <<old>> <<new>>
+git push –f origin <<branch name>>
